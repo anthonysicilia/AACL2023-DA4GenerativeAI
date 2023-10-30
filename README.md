@@ -12,10 +12,10 @@ generative AI more robust, inclusive, and equitable.
 | 10:30-11:00 | Activity: Computing DA Stats | Both    |
 | 11:00-11:20 | Introduction: Equity         | Malihe  |
 | 11:30-11:50 | Algorithms for Equity        | Anthony |
-| 12:00-12:20 | Discussion andFuture Work    | Malihe  |
+| 12:00-12:20 | Discussion and Future Work   | Malihe  |
 
 ## Notebooks and Reading Lists
-For the activity, we will work from ```example.ipynb''' while a comprehensive reading list is available in the official tutorial manuscript ```manuscript.pdf'''
+For the activity, we will work from ```example.ipynb``` while a comprehensive reading list is available in the official tutorial manuscript ```manuscript.pdf```
 
 ## Contact Us
 You can reach us through the current contact information on our websites:
