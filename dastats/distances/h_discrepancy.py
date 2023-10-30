@@ -308,7 +308,6 @@ class Discrepancy:
             self.test_dataloader, self.commands, device=self.device)
 
         # training phase
-        iterator = to_device(self.train_dataloader(dataset), self.device)
         model = self.model_init().to(self.device)
         optim = self.optim_init(model.parameters())
         sched = self.sched_init(optim)
@@ -323,6 +322,7 @@ class Discrepancy:
 
         for _ in epoch_iterator:
             avg_loss = Mean()
+            iterator = to_device(self.train_dataloader(dataset), self.device)
             for x, y, w, *_ in iterator:
                 optim.zero_grad()
                 yhat = self.commands.score(x, model)
