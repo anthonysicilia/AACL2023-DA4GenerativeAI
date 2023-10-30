@@ -7,7 +7,7 @@ generative AI more robust, inclusive, and equitable.
 | Time        | Topic                        | Speaker |
 | ----------- | ---------------------------- | ------- |
 | 9:00-9:20   | Introduction: Inclusivity    | Malihe  |
-| 9:25-9:50   | Tools from Domain Adaptation | Anthony |
+| 9:20-9:50   | Tools from Domain Adaptation | Anthony |
 | 10:00-10:30 | Algorithms for Inclusivity   | Anthony |
 | 10:30-11:00 | Activity: Computing DA Stats | Both    |
 | 11:00-11:20 | Introduction: Equity         | Malihe  |
