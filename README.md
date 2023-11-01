@@ -14,8 +14,10 @@ generative AI more robust, inclusive, and equitable.
 | 11:30-11:50 | Algorithms for Equity        | Anthony |
 | 12:00-12:20 | Discussion and Future Work   | Malihe  |
 
-## Notebooks and Reading Lists
+## Slides, Notebooks, and Reading Lists
 For the activity, we will work from ```example.ipynb``` while a comprehensive reading list is available in the official tutorial manuscript ```manuscript.pdf```
+
+For the most up-to-date slides please visit [this link](https://docs.google.com/presentation/d/12YnRSrOFVnLOU9YQG6jacT1cXs319Ak6w0XpRNsV2ys/edit?usp=sharing).
 
 ## Contact Us
 You can reach us through the current contact information on our websites:
